@@ -2,7 +2,7 @@
 
 # postSlack.sh (チャンネル) (アイコン) (Bot名) (本文)
 
-WEBHOOKURL="https://hooks.slack.com/services/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"
+WEBHOOKURL="YOUR WEBHOOK URL"
 
 DATA_PAYLOAD=`cat <<_EOT_
 payload={ \
